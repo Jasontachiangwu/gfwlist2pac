@@ -1458,7 +1458,7 @@ var rules = [
             "europa.eu",
             "evschool.net",
             "evernote.com",
-            "yinxiang.com"
+            "yinxiang.com",
             "exblog.co.jp",
             "exblog.jp",
             "exchristian.hk",
