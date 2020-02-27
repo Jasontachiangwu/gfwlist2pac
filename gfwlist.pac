@@ -5447,6 +5447,7 @@ var rules = [
             "yong.hu",
             "yorkbbs.ca",
             "you-get.org",
+            "note.youdao.com",
             "youdontcare.com",
             "youjizz.com",
             "youmaker.com",
