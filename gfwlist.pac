@@ -15,6 +15,7 @@ var rules = [
             "aide.gov.tw",
             "aliyun.com",
             "arte.gov.tw",
+            "arxiv.org",
             "baidu.com",
             "chinaso.com",
             "chinaz.com",
