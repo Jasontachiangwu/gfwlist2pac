@@ -32,6 +32,7 @@ var rules = [
             "hsinchu-cc.gov.tw",
             "iner.gov.tw",
             "ip.cn",
+            "jd.com",
             "jike.com",
             "jpush.cn",
             "klsio.gov.tw",
