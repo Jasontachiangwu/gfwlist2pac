@@ -11,8 +11,6 @@ var rules = [
     ],
     [
         [
-            "evernote.com",
-            "yinxiang.com",
             "aftygh.gov.tw",
             "aide.gov.tw",
             "aliyun.com",
@@ -1468,6 +1466,8 @@ var rules = [
             "euronews.com",
             "europa.eu",
             "evschool.net",
+            "evernote.com",
+            "yinxiang.com",
             "exblog.co.jp",
             "exblog.jp",
             "exchristian.hk",
